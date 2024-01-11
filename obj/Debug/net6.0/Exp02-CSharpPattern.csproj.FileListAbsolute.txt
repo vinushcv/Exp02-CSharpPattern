@@ -1,0 +1,15 @@
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.exe
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.deps.json
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.runtimeconfig.json
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.dll
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.pdb
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.csproj.AssemblyReference.cache
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.AssemblyInfoInputs.cache
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.AssemblyInfo.cs
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.csproj.CoreCompileInputs.cache
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.dll
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\refint\Exp02-CSharpPattern.dll
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.pdb
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.genruntimeconfig.cache
+C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\ref\Exp02-CSharpPattern.dll
