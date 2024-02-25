@@ -14,6 +14,7 @@ To write a C# program for a pascal's triangle.
 
 ## Program:
 Developed by: Vinush.CV
+
 Reg no: 212222230176
 ```c#
 using System;
