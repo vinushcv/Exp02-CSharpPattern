@@ -1,6 +1,8 @@
 # Exp02-CSharpPattern
 
 ## Aim:
+To write a C# program for a pascal's triangle.
+
 
 ## Algorithm:
 
